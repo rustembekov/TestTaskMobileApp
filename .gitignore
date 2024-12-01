@@ -1,0 +1,74 @@
+# Gradle files
+.gradle/
+**/build/
+**/build/*
+
+# Android/IntelliJ specific
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/*
+
+# Local configuration file (sdk location, etc.)
+local.properties
+
+# Log files
+*.log
+
+# Kotlin
+*.ktlint
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.ap_
+*.dex
+*.keystore
+output.json
+
+# Gradle cache
+.gradle/
+**/.gradle/
+
+# Proguard
+proguard/
+*.pro
+
+# Android Studio / IntelliJ project files
+*.idea/
+*.iml
+*.ipr
+
+# Compose specific files
+**/build/generated/
+
+# Hilt Generated Files
+build/generated/source/kapt/
+build/generated/ksp/
+
+
+# Serialization files
+build/generated/source/apt_kotlin/
+
+# Coil cache
+coil_cache/
+
+# Local resource files
+captures/
+
+# External native build
+.cxx/
+externalNativeBuild/
+
+# Other ignored files
+*.swp
+*.swo
+*.tmp
+*.bak
+*~
+*.orig
+.DS_Store

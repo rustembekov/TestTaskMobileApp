@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TestTaskMobileApp</string>
+    <string name="enter_phone_number">Enter phone number</string>>
+    <string name="phone_number">Phone number</string>>
+    <string name="continue_word">Continue</string>
+    <string name="ccp_dialog_title">Select your country</string>
+    <string name="sign_in">Sign In</string>
+    <string name="phone_verification">Phone Verification</string>
+    <string name="phone_verification_content">Enter 6 digit verification code sent to your phone number</string>
+    <string name="resend_code">Resend code</string>
+    <string name="account_prompt">Don\'t have an account?</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="username">Username</string>
+    <string name="invalid_username">Invalid username. Only A–Z, a–z, 0–9, -, and _ are allowed.</string>
+    <string name="register">Register</string>
+    <string name="access_token">Access Token</string>
+    <string name="refresh_token">Refresh Token</string>
+    <string name="user_id">User ID</string>
+    <string name="exit">Exit</string>
+    <string name="edit">Edit</string>
+    <string name="profile">Profile</string>
+    <string name="type_message">"Type a message"</string>
+    <string name="successfully_registered">Successfully registered</string>
+    <string name="successfully_logged_in">Successfully logged in</string>
+    <string name="otp_code_incorrect">Your OTP code is incorrect. Please try again</string>
+    <string name="invalid_phone_number">Invalid phone number</string>
+    <string name="invalid_phone_format">Invalid phone format for selected country</string>
+    <string name="invalid_register">Please try again register</string>
+    <string name="registration">Registration</string>
+    <string name="zodiac_sign">Zodiac Sign</string>
+    <string name="about_me">About Me</string>
+    <string name="city">City</string>
+    <string name="birthday">Birthday</string>
+    <string name="avatar">Avatar</string>
+    <string name="no_profile_data">No profile data</string>
+    <string name="profile_image_placeholder">Profile Image Placeholder</string>
+    <string name="change_avatar">Change Avatar</string>
+    <string name="save">Save</string>
+    <string name="edit_profile">Profile Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="successfully_edited">Successfully Edited</string>
+    <string name="please_check_fields">Please Check Fields</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="no_image_data">No image data</string>
+
+
+</resources>
